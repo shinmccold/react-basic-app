@@ -1,0 +1,38 @@
+# Node.js
+node_modules/
+
+# Build files
+build/
+dist/
+*.log
+
+# Dependency directories
+/.pnp/
+.pnp.js
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn
+.yarn/
+.yarnrc
+.yarn-integrity
+
+# ESLint
+.eslintcache
+
+# IDE directories
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE configuration files
+*.iml
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.vscode/
